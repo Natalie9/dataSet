@@ -1,0 +1,303 @@
+﻿No.,Fixed date,Age,sex,residence,Surrounding patients *,Close contact situation
+1,15 January 2020,30s,Man,Kanagawa Prefecture,None,"38 people identified, health observation completed"
+2,24 January 2020,40s,Man,China (Wuhan),None,"32 people identified, health observation completed"
+3,25 January 2020,30s,Woman,China (Wuhan),None,"7 people identified, health observation completed"
+4,26 January 2020,40s,Man,China (Wuhan),No.19,"2 people identified, health observation completed"
+5,28 January 2020,40s,Man,China (Wuhan),None,"3 people identified, health observation completed"
+6,28 January 2020,60s,Man,Nara Prefecture,"No.8, No.13","22 people identified, health observation completed"
+7,28 January 2020,40s,Woman,China (Wuhan),None,"2 people identified, health observation completed"
+8,29 January 2020,40s,Woman,Osaka Prefecture,No.6,"2 people identified, health observation completed"
+9,30 January 2020,50s,Man,Mie Prefecture,None,"3 people identified, health observation completed"
+10,30 January 2020,30s,Woman,China (Hunan),None,"Identify 4 people, end health observation"
+11,30 January 2020,20s,Woman,Kyoto,None,None
+12,31 January 2020,20s,Woman,Chiba,No.6,"One person specified, health observation completed"
+13,4 February 2020,30s,Woman,China (Wuhan),No.20,"6 people identified, health observation completed"
+14,4 February 2020,50s,Man,China (Hubei),No.4,investigating
+15,5 February 2020,40s,Man,China (Wuhan),No.17,"6 people identified, health observation completed"
+16,5 February 2020,20s,Man,Kyoto,investigating,"One person specified, health observation completed"
+17,11 February 2020,50s,Man,Kanagawa Prefecture,investigating,investigating
+18,13 February 2020,80s,Woman,Kanagawa Prefecture,"No.28, No.48","Identifying 4 people, conducting health observation"
+19,13 February 2020,70s,Man,Tokyo,investigating,"Identifying one person, conducting health observation"
+20,13 February 2020,50s,Man,Wakayama Prefecture,No.31,investigating
+21,13 February 2020,20s,Man,Chiba,investigating,Identifying 51 people and conducting health observation
+22,14 February 2020,70s,Man,Wakayama,"No.29, No.54","16 people identified, health observation ongoing"
+23,14 February 2020,60s,Woman,Okinawa Prefecture,None,"16 people identified, health observation ongoing"
+24,14 February 2020,50s,Woman,Tokyo,No.28,investigating
+25,14 February 2020,70s,Man,Tokyo,No.28,investigating
+26,14 February 2020,60s,Man,Aichi Prefecture,investigating,"Identifying 3 people, conducting health observation"
+27,14 February 2020,50s,Man,Hokkaido,None,"45 people identified, health observation ongoing"
+28,14 February 2020,30s,Man,Kanagawa Prefecture,investigating,"Identifying 6 people, conducting health observation"
+29,14 February 2020,50s,Man,Wakayama Prefecture,No.20,investigating
+30,14 February 2020,50s,Woman,Wakayama Prefecture,No.29,investigating
+31,15 February 2020,60s,Man,Wakayama Prefecture,"No.29, No.50, No.51",investigating
+32,15 February 2020,40s,Man,Tokyo,No.45,investigating
+33,15 February 2020,60s,Woman,Tokyo,No.28,investigating
+34,15 February 2020,60s,Woman,Aichi Prefecture,"No.35, No.44, No.69, No.77","Identifying 2 people, conducting health observation"
+35,16 February 2020,60s,Man,Aichi Prefecture,"No.43, No.53, No.59","7 people identified, health observation in progress"
+36,16 February 2020,30s,Man,Tokyo,No.41,"Identifying 14 people, conducting health observation"
+37,16 February 2020,60s,Man,investigating,None,investigating
+38,16 February 2020,60s,Man,investigating,No.28,investigating
+39,17 February 2020,40s,Woman,Kanagawa,No.27,"Identifying 4 people, conducting health observation"
+40,17 February 2020,50s,Man,Tokyo,investigating,investigating
+41,17 February 2020,80s,Woman,Wakayama Prefecture,No.40,investigating
+42,17 February 2020,50s,Man,Wakayama Prefecture,No.40,investigating
+43,17 February 2020,50s,Man,Wakayama Prefecture,investigating,investigating
+44,17 February 2020,60s,Man,Aichi Prefecture,"No.44, No.59","Identifying 3 people, conducting health observation"
+45,18 February 2020,60s,Man,Wakayama Prefecture,No.22,investigating
+46,18 February 2020,30s,Man,Wakayama Prefecture,investigating,investigating
+47,18 February 2020,80s,Man,Tokyo,None,investigating
+48,18 February 2020,20s,Man,Tokyo,investigating,investigating
+49,18 February 2020,50s,Man,Tokyo,investigating,investigating
+50,18 February 2020,60s,Man,Aichi Prefecture,"No.44, No.53","Identifying 3 people, conducting health observation"
+51,18 February 2020,80s,Man,Kanagawa Prefecture,"No.27, No.61, No.78","Identifying 2 people, conducting health observation"
+52,18 February 2020,70s,Man,Kanagawa Prefecture,"No.60, No.78","Identifying 6 people, conducting health observation"
+53,19 February 2020,60s,Man,Kanagawa Prefecture,investigating,"Identifying 2 people, conducting health observation"
+54,19 February 2020,40s,Man,Hokkaido,No.72,"26 people identified, health observation ongoing"
+55,19 February 2020,60s,Man,Hokkaido,No.101,"69 people identified, health observation ongoing"
+56,19 February 2020,60s,Man,Okinawa Prefecture,unknown,investigating
+57,19 February 2020,70s,Man,Tokyo,No.67,investigating
+58,19 February 2020,70s,Woman,Tokyo,No.66,investigating
+59,19 February 2020,70s,Woman,Tokyo,investigating,investigating
+60,19 February 2020,50s,Woman,Aichi Prefecture,"No.43, No.77","Identifying 4 people, conducting health observation"
+61,20 February 2020,60s,Man,Fukuoka Prefecture,No.79,"Identification of one person, end of health observation"
+62,20 February 2020,40s,Man,Hokkaido,No.63,investigating
+63,20 February 2020,70s,Woman,Chiba,investigating,investigating
+64,20 February 2020,80s,Man,Okinawa Prefecture,investigating,investigating
+65,20 February 2020,40s,Man,Tokyo,investigating,investigating
+66,20 February 2020,30s,Man,Saitama,investigating,investigating
+67,20 February 2020,80s,Man,Aichi Prefecture,"No.43, No.69, No.167","Identifying 3 people, conducting health observation"
+68,20 February 2020,80s,Man,Kanagawa Prefecture,"No.60, No.61",investigating
+69,20 February 2020,60s,Woman,Fukuoka Prefecture,No.71,"One person specified, health observation completed"
+70,21 February 2020,Under 10,Man,Hokkaido,No.81,investigating
+71,21 February 2020,10s,Man,Hokkaido,No.80,investigating
+72,21 February 2020,40s,Woman,Hokkaido,investigating,"38 people identified, health observation ongoing"
+73,21 February 2020,50s,Man,Ishikawa Prefecture,unknown,"13 people identified, health observation ongoing"
+74,21 February 2020,50s,Woman,Tokyo,investigating,investigating
+75,21 February 2020,70s,Woman,Tokyo,investigating,investigating
+76,21 February 2020,50s,Woman,Tokyo,investigating,investigating
+77,21 February 2020,60s,Man,Chiba,None,investigating
+78,21 February 2020,80s,Man,Kanagawa Prefecture,investigating,"Identifying 4 people, conducting health observation"
+79,21 February 2020,70s,Man,Aichi Prefecture,No.43,"Identifying one person, conducting health observation"
+80,21 February 2020,20s,Woman,Aichi Prefecture,No.69,"Identifying 10 people, conducting health observation"
+81,22 February 2020,20s,Woman,Kumamoto Prefecture,"No.93, No.142","11 people identified, health observation ongoing"
+82,22 February 2020,50s,Man,Kumamoto Prefecture,"No.92, No.141, No.142","16 people identified, health observation ongoing"
+83,21 February 2020,60s,Man,Kumamoto Prefecture,None,None
+84,22 February 2020,40s,Man,Wakayama Prefecture,No.40,investigating
+85,21 February 2020,60s,Woman,Chiba,None,investigating
+86,22 February 2020,50s,Woman,Chiba,None,investigating
+87,22 February 2020,70s,Woman,Hokkaido,investigating,investigating
+88,22 February 2020,80s,Man,Hokkaido,"No.177, No.188",investigating
+89,22 February 2020,70s,Man,Hokkaido,investigating,investigating
+90,22 February 2020,50s,Woman,Hokkaido,No.64,investigating
+91,22 February 2020,60s,Man,Hokkaido,investigating,investigating
+92,22 February 2020,50s,Woman,Hokkaido,investigating,"23 people identified, health observation ongoing"
+93,22 February 2020,10s,Woman,Hokkaido,investigating,investigating
+94,22 February 2020,50s,Woman,Hokkaido,investigating,investigating
+95,22 February 2020,60s,Man,Tokyo,investigating,investigating
+96,22 February 2020,60s,Woman,Aichi Prefecture,No.43,"Identifying one person, conducting health observation"
+97,22 February 2020,40s,Woman,Aichi Prefecture,No.43,None
+98,22 February 2020,60s,Man,Aichi Prefecture,No.69,"Identifying 2 people, conducting health observation"
+99,22 February 2020,60s,Man,Aichi Prefecture,No.69,"Identifying 6 people, conducting health observation"
+100,22 February 2020,60s,Woman,Tochigi Prefecture,Onset after cruise ship disembarks,"Identifying one person, conducting health observation"
+101,22 February 2020,50s,Man,Kanagawa Prefecture,"No.137, No.138, No.139, No.158",investigating
+102,22 February 2020,50s,Man,Hokkaido,No.177,investigating
+103,22 February 2020,70s,Man,Hokkaido,None,investigating
+104,23 February 2020,70s,Woman,Aichi Prefecture,No.43,investigating
+105,23 February 2020,70s,Man,Aichi Prefecture,No.43,investigating
+106,23 February 2020,40s,Man,Chiba,None,investigating
+107,23 February 2020,30s,Man,Hokkaido,investigating,investigating
+108,23 February 2020,60s,Woman,Hokkaido,No.100,investigating
+109,23 February 2020,20s,Man,Hokkaido,investigating,investigating
+110,23 February 2020,70s,Man,Hokkaido,investigating,investigating
+111,23 February 2020,30s,Woman,Hokkaido,investigating,Identifying 20 people and conducting health observation
+112,23 February 2020,80s,Man,Hokkaido,No.98,investigating
+113,23 February 2020,40s,Woman,Hokkaido,No.104,investigating
+114,23 February 2020,20s,Woman,Hokkaido,investigating,investigating
+115,24 February 2020,40s,Man,Tokyo,investigating,investigating
+116,24 February 2020,50s,Man,Tokyo,investigating,investigating
+117,24 February 2020,60s,Man,Ishikawa Prefecture,investigating,Eight people are being identified and health observations are underway
+118,24 February 2020,70s,Woman,Hokkaido,No.114,investigating
+119,24 February 2020,50s,Man,Hokkaido,"No.174, No.175, No.177",investigating
+120,24 February 2020,20s,Woman,Hokkaido,No.113,investigating
+121,24 February 2020,50s,Man,Hokkaido,investigating,investigating
+122,24 February 2020,50s,Man,Kanagawa Prefecture,investigating,investigating
+123,24 February 2020,40s,Man,Tokyo,investigating,investigating
+124,24 February 2020,50s,Man,Tokyo,investigating,investigating
+125,24 February 2020,30s,Man,Tokyo,investigating,investigating
+126,22 February 2020,50s,Woman,Kanagawa Prefecture,No.112,investigating
+127,22 February 2020,20s,Woman,Kanagawa Prefecture,No.112,investigating
+128,22 February 2020,20s,Woman,Kanagawa Prefecture,No.112,investigating
+129,25 February 2020,60s,Man,Nagano Prefecture,investigating,investigating
+130,25 February 2020,50s,Man,Kumamoto Prefecture,No.93,"Identifying 9 people, conducting health observation"
+131,25 February 2020,60s,Woman,Kumamoto Prefecture,"No.92, No.93",None
+132,25 February 2020,60s,Woman,Hokkaido,unknown,investigating
+133,25 February 2020,50s,Woman,Ishikawa Prefecture,No.83,Eight people are being identified and health observations are underway
+134,25 February 2020,70s,Woman,Aichi Prefecture,No.43,investigating
+135,25 February 2020,70s,Woman,Aichi Prefecture,No.43,investigating
+136,25 February 2020,40s,Woman,Aichi Prefecture,No.69,investigating
+137,25 February 2020,60s,Man,Chiba,Onset after cruise ship disembarks,"Identifying one person, conducting health observation"
+138,25 February 2020,50s,Man,Chiba,investigating,investigating
+139,25 February 2020,70s,Man,Chiba,Onset after cruise ship disembarks,investigating
+140,25 February 2020,20s,Man,Hokkaido,No.177,investigating
+141,25 February 2020,20s,Woman,Hokkaido,investigating,investigating
+142,25 February 2020,70s,Man,Hokkaido,investigating,investigating
+143,25 February 2020,Checking,Checking,Hokkaido,investigating,investigating
+144,26 February 2020,70s,Woman,Hokkaido,investigating,investigating
+145,25 February 2020,70s,Woman,Hokkaido,investigating,investigating
+146,26 February 2020,40s,Man,Osaka Prefecture,None,investigating
+147,26 February 2020,60s,Man,Kanagawa Prefecture,No.112,investigating
+148,26 February 2020,40s,Woman,Osaka Prefecture,Same person as No.8,investigating
+149,investigating,80s,Man,Tokyo,No.161,investigating
+150,investigating,70s,Man,Tokyo,No.160,investigating
+151,investigating,70s,Man,Tokyo,investigating,investigating
+152,26 February 2020,50s,Man,Aichi Prefecture,No.69,investigating
+153,26 February 2020,60s,Man,Aichi Prefecture,No.69,investigating
+154,26 February 2020,70s,Man,Aichi Prefecture,No.69,investigating
+155,26 February 2020,70s,Man,Aichi Prefecture,investigating,investigating
+156,26 February 2020,70s,Woman,Aichi Prefecture,No.77,investigating
+157,27 February 2020,50s,Man,Gifu Prefecture,No.169,"Identifying 9 people, conducting health observation"
+158,27 February 2020,50s,Woman,Osaka Prefecture,No.168,"Identifying one person, conducting health observation"
+159,27 February 2020,50s,Man,Shiga Prefecture,investigating,"42 people identified, health observation ongoing"
+160,27 February 2020,50s,Man,Kanagawa Prefecture,investigating,investigating
+161,27 February 2020,60s,Woman,Chiba,investigating,investigating
+162,27 February 2020,40s,Man,Osaka Prefecture,investigating,investigating
+163,27 February 2020,50s,Man,Hokkaido,"No.130, No.177",investigating
+164,27 February 2020,50s,Man,Hokkaido,"No.130, No.177",investigating
+165,27 February 2020,30s,Man,Hokkaido,investigating,investigating
+166,27 February 2020,70s,Man,Hokkaido,"No.99, No.113, No.130, No.151, No.174, No.175",investigating
+167,27 February 2020,60s,Man,Hokkaido,investigating,investigating
+168,27 February 2020,40s,Man,Hokkaido,investigating,investigating
+169,27 February 2020,40s,Man,Hokkaido,investigating,investigating
+170,27 February 2020,Under 10,Man,Hokkaido,investigating,investigating
+171,27 February 2020,30s,Man,Hokkaido,investigating,investigating
+172,27 February 2020,Under 10,Man,Hokkaido,investigating,investigating
+173,27 February 2020,80s,Man,Hokkaido,investigating,investigating
+174,27 February 2020,30s,Man,Hokkaido,investigating,investigating
+175,27 February 2020,80s,Man,Hokkaido,investigating,investigating
+176,27 February 2020,60s,Man,Hokkaido,investigating,investigating
+177,27 February 2020,40s,Woman,Hokkaido,No.99,investigating
+178,27 February 2020,60s,Woman,Aichi Prefecture,investigating,investigating
+179,27 February 2020,60s,Man,Aichi Prefecture,investigating,investigating
+180,27 February 2020,50s,Man,Kanagawa Prefecture,investigating,investigating
+181,28 February 2020,40s,Woman,Kanagawa Prefecture,investigating,investigating
+182,28 February 2020,20s,Man,Kanagawa Prefecture,investigating,investigating
+183,28 February 2020,60s,Man,Shizuoka Prefecture,Onset after cruise ship disembarkation,"Identifying one person, conducting health observation"
+184,28 February 2020,80s,Woman,Hokkaido,investigating,investigating
+185,28 February 2020,Under teens,Woman,Hokkaido,investigating,investigating
+186,28 February 2020,80s,Man,Hokkaido,investigating,investigating
+187,28 February 2020,60s,Woman,Hokkaido,investigating,investigating
+188,28 February 2020,60s,Man,Hokkaido,No.100,investigating
+189,28 February 2020,60s,Man,Hokkaido,investigating,investigating
+190,28 February 2020,60s,Woman,Hokkaido,investigating,investigating
+191,28 February 2020,40s,Man,Hokkaido,investigating,investigating
+192,28 February 2020,70s,Man,Hokkaido,investigating,investigating
+193,28 February 2020,60s,Woman,Hokkaido,investigating,investigating
+194,28 February 2020,60s,Man,Hokkaido,investigating,investigating
+195,28 February 2020,60s,Man,Hokkaido,investigating,investigating
+196,28 February 2020,60s,Man,Aichi Prefecture,No.189,investigating
+197,28 February 2020,40s,Woman,Osaka city,No.173,"87 people identified, health observation in progress"
+198,28 February 2020,30s,Woman,Kochi Prefecture,live house,"16 people identified, health observation ongoing"
+199,29 February 2020,60s,Man,Niigata,Table tennis school,"54 people identified, health observation in progress"
+200,29 February 2020,70s,Man,Miyagi Prefecture,Onset after cruise ship disembarkation,"Identifying one person, conducting health observation"
+201,29 February 2020,20s,Woman,Tokyo,No.56,investigating
+202,29 February 2020,90s,Woman,Hokkaido,investigating,investigating
+203,29 February 2020,60s,Woman,Hokkaido,investigating,investigating
+204,29 February 2020,30s,Woman,Hokkaido,investigating,investigating
+205,29 February 2020,20s,Woman,Hokkaido,investigating,investigating
+206,29 February 2020,70s,Woman,Aichi Prefecture,investigating,investigating
+207,1 March 2020,60s,Man,Fukuoka Prefecture,investigating,investigating
+208,1 March 2020,70s,Woman,Kanagawa Prefecture,"No.231, No.232",investigating
+209,1 March 2020,50s,Woman,Kanagawa Prefecture,"No.230, No.232",investigating
+210,1 March 2020,20s,Man,Chiba,"No.230, No.231",investigating
+211,1 March 2020,20s,Woman,Hokkaido,investigating,investigating
+212,1 March 2020,40s,Woman,Hokkaido,exhibition,investigating
+213,1 March 2020,50s,Woman,Tokyo,sports gym,investigating
+214,1 March 2020,70s,Woman,Tokyo,No.56,investigating
+215,1 March 2020,50s,Man,Kanagawa Prefecture,No.227,investigating
+216,1 March 2020,50s,Woman,Kanagawa Prefecture,No.226,investigating
+217,1 March 2020,investigating,investigating,Kochi Prefecture,No.209,investigating
+218,1 March 2020,investigating,investigating,Aichi Prefecture,No.217,investigating
+219,1 March 2020,investigating,investigating,Aichi Prefecture,No.217,investigating
+220,1 March 2020,investigating,investigating,Aichi Prefecture,investigating,investigating
+221,1 March 2020,40s,Man,Hyogo prefecture,investigating,investigating
+222,2 March 2020,30s,Woman,Kochi Prefecture,No.209,investigating
+223,2 March 2020,40s,Man,Niigata,Table tennis school,investigating
+224,2 March 2020,60s,Man,Hokkaido,investigating,investigating
+225,2 March 2020,60s,Man,Hokkaido,investigating,investigating
+226,2 March 2020,50s,Man,Hokkaido,investigating,investigating
+227,2 March 2020,40s,Woman,Hokkaido,investigating,investigating
+228,2 March 2020,50s,Man,Hokkaido,investigating,investigating
+229,2 March 2020,50s,Man,Osaka Prefecture,No.157,investigating
+230,2 March 2020,40s,Woman,Osaka Prefecture,No.240,investigating
+231,3 March 2020,30s,Woman,Oita Prefecture,investigating,investigating
+232,3 March 2020,40s,Man,Hyogo prefecture,investigating,investigating
+233,3 March 2020,30s,Woman,Hokkaido,No.216,investigating
+234,3 March 2020,60s,Woman,Hokkaido,No.216,investigating
+235,3 March 2020,60s,Woman,Niigata,Table tennis school,investigating
+236,3 March 2020,50s,Woman,Niigata,Table tennis school,investigating
+237,3 March 2020,40s,Man,Niigata,Table tennis school,investigating
+238,3 March 2020,50s,Woman,Kyoto,live house,investigating
+239,3 March 2020,50s,Woman,Tokyo,investigating,investigating
+240,3 March 2020,50s,Man,Osaka Prefecture,investigating,investigating
+241,3 March 2020,40s,Woman,Osaka Prefecture,live house,investigating
+242,3 March 2020,70s,Woman,Aichi Prefecture,No.254,investigating
+243,3 March 2020,80s,Man,Aichi Prefecture,No.253,investigating
+244,3 March 2020,20s,Woman,Aichi Prefecture,investigating,investigating
+245,3 March 2020,70s,Man,Aichi Prefecture,investigating,investigating
+246,3 March 2020,40s,Woman,Hyogo prefecture,live house,investigating
+247,3 March 2020,40s,Man,Yamaguchi Prefecture,investigating,investigating
+248,4 March 2020,40s,Woman,Kochi Prefecture,No.209,"14 people identified, health observation in progress"
+249,4 March 2020,60s,Man,Kochi Prefecture,No.233,investigating
+250,4 March 2020,60s,Woman,Kochi Prefecture,No.233,investigating
+251,4 March 2020,Under 10,Man,Kochi Prefecture,No.233,"16 people identified, health observation in progress"
+252,4 March 2020,305,Woman,Ehime Prefecture,investigating,"26 people identified, health observation in progress"
+253,4 March 2020,70s,Man,Miyazaki prefecture,investigating,investigating
+254,4 March 2020,40s,Man,Hokkaido,investigating,investigating
+255,4 March 2020,60s,Man,Hokkaido,investigating,investigating
+256,4 March 2020,40s,Man,Hokkaido,investigating,investigating
+257,4 March 2020,80s,Woman,Tokyo,investigating,investigating
+258,4 March 2020,30s,Woman,Tokyo,live house,investigating
+259,4 March 2020,50s,Man,Tokyo,investigating,investigating
+260,4 March 2020,40s,Woman,Tokyo,live house,investigating
+261,4 March 2020,80s,Woman,Chiba,No.224,investigating
+262,4 March 2020,60s,Woman,Aichi Prefecture,No.164,investigating
+263,4 March 2020,50s,Man,Aichi Prefecture,"No.217, No.230",investigating
+264,4 March 2020,70s,Woman,Aichi Prefecture,No.229,investigating
+265,4 March 2020,80s,Man,Aichi Prefecture,No.229,investigating
+266,4 March 2020,80s,Man,Aichi Prefecture,No.230,investigating
+267,4 March 2020,80s,Man,Aichi Prefecture,No.230,investigating
+268,4 March 2020,50s,Woman,Kyoto,live house,investigating
+269,4 March 2020,50s,Man,Kyoto,investigating,investigating
+270,4 March 2020,30s,Woman,Osaka Prefecture,live house,investigating
+271,4 March 2020,30s,Man,Osaka Prefecture,live house,investigating
+272,4 March 2020,60s,Woman,Osaka Prefecture,live house,investigating
+273,4 March 2020,50s,Woman,Osaka Prefecture,No.251,investigating
+274,4 March 2020,50s,Man,Osaka Prefecture,investigating,investigating
+275,4 March 2020,30s,Woman,Osaka Prefecture,investigating,investigating
+276,4 March 2020,70s,Man,Osaka Prefecture,investigating,investigating
+277,5 March 2020,60s,Man,Shiga Prefecture,investigating,investigating
+278,5 March 2020,30s,Man,Kyoto,investigating,investigating
+279,4 March 2020,60s,Man,Hokkaido,investigating,investigating
+280,5 March 2020,50s,Woman,Kanagawa Prefecture,investigating,investigating
+281,5 March 2020,50s,Man,Kanagawa Prefecture,investigating,investigating
+282,5 March 2020,60s,Man,Saitama,investigating,investigating
+283,5 March 2020,50s,Man,Saitama,investigating,investigating
+284,5 March 2020,Under 10,Woman,Tokyo,No.250,investigating
+285,5 March 2020,Under 10,Man,Tokyo,No.250,investigating
+286,5 March 2020,30s,Woman,Tokyo,No.250,investigating
+287,5 March 2020,20s,Woman,Tokyo,investigating,investigating
+288,5 March 2020,70s,Woman,Tokyo,No.168,investigating
+289,5 March 2020,90s,Man,Tokyo,investigating,investigating
+290,5 March 2020,70s,Man,Tokyo,investigating,investigating
+291,5 March 2020,80s,Man,Tokyo,investigating,investigating
+292,5 March 2020,20s,Woman,Wakayama Prefecture,live house,investigating
+293,5 March 2020,30s,Man,Aichi Prefecture,investigating,investigating
+294,5 March 2020,50s,Man,Aichi Prefecture,investigating,investigating
+295,5 March 2020,40s,Woman,Aichi Prefecture,No.43,investigating
+296,5 March 2020,60s,Man,Aichi Prefecture,No.69,investigating
+297,5 March 2020,60s,Woman,Aichi Prefecture,No.217,investigating
+298,5 March 2020,40s,Woman,Aichi Prefecture,investigating,investigating
+299,5 March 2020,80s,Woman,Aichi Prefecture,investigating,investigating
+300,5 March 2020,80s,Man,Aichi Prefecture,investigating,investigating
+301,5 March 2020,50s,Woman,Aichi Prefecture,investigating,investigating
+302,5 March 2020,30s,Woman,Tochigi Prefecture,live house,investigating
